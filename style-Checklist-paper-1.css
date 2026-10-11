@@ -82,10 +82,10 @@ body {
       clear: both;
     }
 
-    /* Seven columns side by side */
+    /* Four columns side by side */
     .column {
       float: left;
-      width: 14.28%;
+      width: 25%;
     }
 
     /* Add a transparency effect for thumnbail images */
@@ -170,4 +170,8 @@ body {
             font-size: 36px;
             color: green;
             font-weight: bold;
+        }
+
+        h2 {
+            style=" margin-left: 30px;"
         }
